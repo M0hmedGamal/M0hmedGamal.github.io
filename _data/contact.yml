@@ -2,13 +2,11 @@
 
 - type: github
   icon: "fab fa-github"
-  # يجب إضافة لينك هنا
-  # url: "https://github.com/M0hmedGamal" 
+  url: "https://github.com/M0hmedGamal" 
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
-  # يجب إضافة لينك هنا
-  # url: "https://twitter.com/your-username" 
+  url: "https://x.com/M0hamedGamal0" 
 
 - type: email
   icon: "fas fa-envelope"
