@@ -16,7 +16,7 @@ timezone:
 
 title: Mohamed Gamal # the main title
 
-tagline: Simply Blog # it will display as the subtitle
+tagline: gem0x00's Blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   My personal blog for CTF solutions, security analysis, and web hacking notes.
