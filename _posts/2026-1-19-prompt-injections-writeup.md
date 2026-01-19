@@ -12,7 +12,7 @@ Hey How are you ?
 recently i came across a mind blowing exploit where gemini was manipulated via a simple google calendar 
 invite to hijack emails and control smart devices this critical vulnerability highlights the 
 dark side of ai autonomy so i decided to reverse engineer the logic and create a full technical walkthrough 
-and a ctf style writeup to explain how these prompts can be weaponized and how to defend against them
+and a ctf style writeup to explain how these prompts can be weaponized.
 
 Today I wanna talk about a very important topic this topic is prompt injections.
 Simply, when you ask something like gemini or chatgpt to do something or for something this called prompt very easy right ?
